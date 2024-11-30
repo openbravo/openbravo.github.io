@@ -2,18 +2,16 @@
 wiki of Peoples Openbravo 
 
 Welcome to Openbravo
-Ob-icon 25.gifIntroduction
+Introduction
 Welcome to the Openbravo Wiki. This site provides supporting documentation for the Openbravo Community, including people installing, configuring, using, developing or localizing Openbravo solutions.
 
-The current version of Openbravo is 3.0PR20Q2.
+The current version of Peoples Openbravo is 3.0PR24Q4.
 
 Featured Resources:
 
-Openbravo Commerce Release Notes
-Openbravo Web POS Configuration Guide
-Openbravo Web POS User Guide
-Openbravo Installation Instructions
-Openbravo Activation
+Peoples Openbravo Commerce Release Notes
+Peoples Openbravo Installation Instructions
+Peoples Openbravo Activation
 
 
 Documentation.gif Documentation
